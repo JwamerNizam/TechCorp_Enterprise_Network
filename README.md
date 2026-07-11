@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechCorp Enterprise Network — Multi-Site Infrastructure Design & Implementation
 
 > A full enterprise network built from scratch in Cisco Packet Tracer, covering network design, Layer 2/3 implementation, redundancy, dynamic routing, security, and WAN connectivity across three sites.
@@ -106,4 +107,7 @@ Real issues encountered and resolved during implementation:
 
 ## About
 
-Built by Jwamer — Information System Engineering graduate, Erbil Polytechnic University. CCNA certified. Currently interning at O3 Telecom (FTTH/GPON ISP) in Erbil, Iraq. Targeting Junior Network Engineer and NOC Engineer roles.
+Built by Jwamer — Information System Engineering student, Erbil Polytechnic University.
+=======
+# TechCorp_Enterprise_Network
+>>>>>>> d547662167ce61c22673d0ba5dfc177c722d9be5
