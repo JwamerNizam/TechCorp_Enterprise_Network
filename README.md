@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # TechCorp Enterprise Network — Multi-Site Infrastructure Design & Implementation
 
 > A full enterprise network built from scratch in Cisco Packet Tracer, covering network design, Layer 2/3 implementation, redundancy, dynamic routing, security, and WAN connectivity across three sites.
